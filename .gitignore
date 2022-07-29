@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ytmusicapi
+headers_auth.json
+
+# sync report
+sync_report.csv
